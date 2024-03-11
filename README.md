@@ -1,2 +1,14 @@
-# group-project-template
-Group project repository for HUMA5630 course at HKUST
+# Group Project for HUMA5630 Digital Humanities
+
+| Student Name | UID | UST email | 
+| --------- | --- | --------- |
+|           |     |           |
+|           |     |           |
+|           |     |           |
+|           |     |           |
+
+# Topic
+xxxxx
+
+# URL
+xxxx
